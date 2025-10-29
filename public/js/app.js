@@ -1,4 +1,7 @@
 import './bootstrap';
+
+console.log("✅ JS file is connected successfully!");
+
 (function() {
 	'use strict';
 
