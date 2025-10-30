@@ -33,3 +33,7 @@ Route::get('/blog', function () {
 Route::get('/contact', function () {
     return view('pages.contact');
 })->name('contact');
+Route::get('/cart', function () {
+    return view('pages.cart');
+})->name('cart');
+

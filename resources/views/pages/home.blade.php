@@ -25,7 +25,7 @@
     </div>
   </div>
 
-  @endsection
+@endsection
 @section('content')
 
 
@@ -418,10 +418,5 @@
 
 		<!-- End Blog Section -->	
 		 
-		<!-- Start Footer Section -->
-		
-<!-- End Footer Section -->
-
-      
 
 @endsection

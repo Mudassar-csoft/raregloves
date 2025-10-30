@@ -18,12 +18,10 @@
 
     <!-- {{-- Header --}} -->
     @include('layout.header')
-
     <!-- {{-- Main Page Content --}} -->
     <main class="container my-5">
         @yield('content')
     </main>
-
     <!-- Footer -->
     @include('layout.footer')
 
