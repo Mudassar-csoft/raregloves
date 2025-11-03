@@ -264,12 +264,12 @@
   </div>
 </div>
 		<!-- End Popular Product -->
-		<!-- Start Testimonial Slider -->
-<div class="testimonial-section before-footer-section">
+   <!-- Start Testimonial Slider -->
+<div class="testimonial-section">
   <div class="container">
     <div class="row">
       <div class="col-lg-7 mx-auto text-center">
-        <h2 class="section-title">Testimonials</h2>
+        <h2 class="section-title">What Our Customers Say</h2>
       </div>
     </div>
 
@@ -283,68 +283,68 @@
           </div>
 
           <div class="testimonial-slider">
-            
+
             <div class="item">
               <div class="row justify-content-center">
                 <div class="col-lg-8 mx-auto">
 
                   <div class="testimonial-block text-center">
                     <blockquote class="mb-5">
-                      <p>&ldquo;RareGloves has completely changed how I view online shopping. The product quality and customer service are top-notch. I’ve received so many compliments on my new gloves!&rdquo;</p>
+                      <p>&ldquo;RareGloves has completely changed the way I shop for accessories online. The quality is outstanding, and their attention to detail is unmatched. My order arrived quickly and beautifully packaged!&rdquo;</p>
                     </blockquote>
 
                     <div class="author-info">
                       <div class="author-pic">
-                        <img src="images/person-1.jpg" alt="Sarah Ahmed" class="img-fluid">
+                        <img src="images/person-1.jpg" alt="Sophia Turner" class="img-fluid">
                       </div>
-                      <h3 class="font-weight-bold">Sarah Ahmed</h3>
+                      <h3 class="font-weight-bold">Sophia Turner</h3>
+                      <span class="position d-block mb-3">Marketing Manager, BrandFlow</span>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div> 
+            <!-- END item -->
+
+            <div class="item">
+              <div class="row justify-content-center">
+                <div class="col-lg-8 mx-auto">
+
+                  <div class="testimonial-block text-center">
+                    <blockquote class="mb-5">
+                      <p>&ldquo;I’ve been a loyal customer for over a year now. Every product feels premium and long-lasting. The team is super responsive whenever I have questions — I couldn’t be happier!&rdquo;</p>
+                    </blockquote>
+
+                    <div class="author-info">
+                      <div class="author-pic">
+                        <img src="images/person-1.jpg" alt="Liam Anderson" class="img-fluid">
+                      </div>
+                      <h3 class="font-weight-bold">Liam Anderson</h3>
+                      <span class="position d-block mb-3">Entrepreneur & Designer</span>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div> 
+            <!-- END item -->
+
+            <div class="item">
+              <div class="row justify-content-center">
+                <div class="col-lg-8 mx-auto">
+
+                  <div class="testimonial-block text-center">
+                    <blockquote class="mb-5">
+                      <p>&ldquo;The gloves I ordered are not just stylish but incredibly comfortable. I’ve received so many compliments. Thank you RareGloves for combining fashion with quality!&rdquo;</p>
+                    </blockquote>
+
+                    <div class="author-info">
+                      <div class="author-pic">
+                        <img src="images/person-1.jpg" alt="Ava Mitchell" class="img-fluid">
+                      </div>
+                      <h3 class="font-weight-bold">Ava Mitchell</h3>
                       <span class="position d-block mb-3">Fashion Blogger</span>
-                    </div>
-                  </div>
-
-                </div>
-              </div>
-            </div> 
-            <!-- END item -->
-
-            <div class="item">
-              <div class="row justify-content-center">
-                <div class="col-lg-8 mx-auto">
-
-                  <div class="testimonial-block text-center">
-                    <blockquote class="mb-5">
-                      <p>&ldquo;I ordered a pair of leather gloves for a gift, and they arrived earlier than expected. The packaging was beautiful, and the fit was perfect. Highly recommend RareGloves!&rdquo;</p>
-                    </blockquote>
-
-                    <div class="author-info">
-                      <div class="author-pic">
-                        <img src="images/person-1.jpg" alt="James Carter" class="img-fluid">
-                      </div>
-                      <h3 class="font-weight-bold">James Carter</h3>
-                      <span class="position d-block mb-3">Entrepreneur, StyleHub</span>
-                    </div>
-                  </div>
-
-                </div>
-              </div>
-            </div> 
-            <!-- END item -->
-
-            <div class="item">
-              <div class="row justify-content-center">
-                <div class="col-lg-8 mx-auto">
-
-                  <div class="testimonial-block text-center">
-                    <blockquote class="mb-5">
-                      <p>&ldquo;Exceptional craftsmanship and elegant designs! I’ve purchased multiple items from RareGloves, and every experience has been seamless. Definitely my go-to store for quality accessories.&rdquo;</p>
-                    </blockquote>
-
-                    <div class="author-info">
-                      <div class="author-pic">
-                        <img src="images/person-1.jpg" alt="Emily Roberts" class="img-fluid">
-                      </div>
-                      <h3 class="font-weight-bold">Emily Roberts</h3>
-                      <span class="position d-block mb-3">Creative Director, Luxe Studio</span>
                     </div>
                   </div>
 
@@ -361,6 +361,7 @@
   </div>
 </div>
 <!-- End Testimonial Slider -->
+
 
 		<!-- Start Blog Section -->
 		<div class="blog-section">

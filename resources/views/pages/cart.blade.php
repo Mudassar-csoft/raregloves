@@ -29,7 +29,7 @@
 @endsection
 @section('content')
 
-<div class="untree_co-section before-footer-section">
+<div class="quantity-container">
   <div class="container">
     <div class="row mb-5">
       <form class="col-md-12" method="post">

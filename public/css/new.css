@@ -4,15 +4,12 @@
 * Author URI: https://untree.co/
 * License: https://creativecommons.org/licenses/by/3.0/
 */
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"); */
 html, body {
   overflow-x: hidden;
   margin: 0;
   padding: 0;
 }
-
-
-  
 body {
   font-family: "Inter", sans-serif;
   font-weight: 400;
@@ -102,7 +99,8 @@ a {
 .hero {
   background: #3b5d50;
   padding: calc(4rem - 30px) 0 0rem 0;
-  overflow-x: hidden; /* Prevent right overflow */
+  overflow-x: hidden; /* Prevent horizontal scroll */
+  position: relative;
 }
 
 /* Tablet */
@@ -122,7 +120,7 @@ a {
 /* Text section */
 .hero .intro-excerpt {
   position: relative;
-  z-index: 4;
+  z-index: 3;
 }
 
 @media (min-width: 992px) {
@@ -146,6 +144,8 @@ a {
 .hero .hero-img-wrap {
   position: relative;
   text-align: center;
+  min-height: 400px; /* Ensures image visible on large screens */
+  overflow: visible;
 }
 
 /* Default (Mobile First) */
@@ -155,6 +155,7 @@ a {
   position: static;
   margin: 0 auto;
   display: block;
+  z-index: 2;
 }
 
 /* Tablet View */
@@ -172,9 +173,10 @@ a {
   .hero .hero-img-wrap img {
     position: absolute;
     top: -80px;
-    right: -50px;
+    right: 0;
     left: auto;
-    max-width: 780px;
+    max-width: 750px;
+    z-index: 2;
   }
 }
 
@@ -187,9 +189,11 @@ a {
   background-image: url("../images/dots-light.svg");
   background-size: contain;
   background-repeat: no-repeat;
-  right: -100px;
+  right: -60px;
   top: 0;
+  z-index: 1;
 }
+
 
 .btn {
   font-weight: 600;
