@@ -193,103 +193,104 @@
   </div>
 </div>
 <!-- End Product Section -->
+ <!-- Start Testimonial Slider -->
+<div class="testimonial-section before-footer-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-7 mx-auto text-center">
+        <h2 class="section-title">Testimonials</h2>
+      </div>
+    </div>
 
-		<!-- Start Testimonial Slider -->
-		<div class="testimonial-section before-footer-section">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-7 mx-auto text-center">
-						<h2 class="section-title">Testimonials</h2>
-					</div>
-				</div>
+    <div class="row justify-content-center">
+      <div class="col-lg-12">
+        <div class="testimonial-slider-wrap text-center">
 
-				<div class="row justify-content-center">
-					<div class="col-lg-12">
-						<div class="testimonial-slider-wrap text-center">
+          <div id="testimonial-nav">
+            <span class="prev" data-controls="prev"><span class="fa fa-chevron-left"></span></span>
+            <span class="next" data-controls="next"><span class="fa fa-chevron-right"></span></span>
+          </div>
 
-							<div id="testimonial-nav">
-								<span class="prev" data-controls="prev"><span class="fa fa-chevron-left"></span></span>
-								<span class="next" data-controls="next"><span class="fa fa-chevron-right"></span></span>
-							</div>
+          <div class="testimonial-slider">
+            
+            <div class="item">
+              <div class="row justify-content-center">
+                <div class="col-lg-8 mx-auto">
 
-							<div class="testimonial-slider">
-								
-								<div class="item">
-									<div class="row justify-content-center">
-										<div class="col-lg-8 mx-auto">
+                  <div class="testimonial-block text-center">
+                    <blockquote class="mb-5">
+                      <p>&ldquo;RareGloves has completely changed how I view online shopping. The product quality and customer service are top-notch. I’ve received so many compliments on my new gloves!&rdquo;</p>
+                    </blockquote>
 
-											<div class="testimonial-block text-center">
-												<blockquote class="mb-5">
-													<p>&ldquo;Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer convallis volutpat dui quis scelerisque.&rdquo;</p>
-												</blockquote>
+                    <div class="author-info">
+                      <div class="author-pic">
+                        <img src="images/person-1.jpg" alt="Sarah Ahmed" class="img-fluid">
+                      </div>
+                      <h3 class="font-weight-bold">Sarah Ahmed</h3>
+                      <span class="position d-block mb-3">Fashion Blogger</span>
+                    </div>
+                  </div>
 
-												<div class="author-info">
-													<div class="author-pic">
-														<img src="images/person-1.png" alt="Maria Jones" class="img-fluid">
-													</div>
-													<h3 class="font-weight-bold">Maria Jones</h3>
-													<span class="position d-block mb-3">CEO, Co-Founder, XYZ Inc.</span>
-												</div>
-											</div>
+                </div>
+              </div>
+            </div> 
+            <!-- END item -->
 
-										</div>
-									</div>
-								</div> 
-								<!-- END item -->
+            <div class="item">
+              <div class="row justify-content-center">
+                <div class="col-lg-8 mx-auto">
 
-								<div class="item">
-									<div class="row justify-content-center">
-										<div class="col-lg-8 mx-auto">
+                  <div class="testimonial-block text-center">
+                    <blockquote class="mb-5">
+                      <p>&ldquo;I ordered a pair of leather gloves for a gift, and they arrived earlier than expected. The packaging was beautiful, and the fit was perfect. Highly recommend RareGloves!&rdquo;</p>
+                    </blockquote>
 
-											<div class="testimonial-block text-center">
-												<blockquote class="mb-5">
-													<p>&ldquo;Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer convallis volutpat dui quis scelerisque.&rdquo;</p>
-												</blockquote>
+                    <div class="author-info">
+                      <div class="author-pic">
+                        <img src="images/person-1.jpg" alt="James Carter" class="img-fluid">
+                      </div>
+                      <h3 class="font-weight-bold">James Carter</h3>
+                      <span class="position d-block mb-3">Entrepreneur, StyleHub</span>
+                    </div>
+                  </div>
 
-												<div class="author-info">
-													<div class="author-pic">
-														<img src="images/person-1.png" alt="Maria Jones" class="img-fluid">
-													</div>
-													<h3 class="font-weight-bold">Maria Jones</h3>
-													<span class="position d-block mb-3">CEO, Co-Founder, XYZ Inc.</span>
-												</div>
-											</div>
+                </div>
+              </div>
+            </div> 
+            <!-- END item -->
 
-										</div>
-									</div>
-								</div> 
-								<!-- END item -->
+            <div class="item">
+              <div class="row justify-content-center">
+                <div class="col-lg-8 mx-auto">
 
-								<div class="item">
-									<div class="row justify-content-center">
-										<div class="col-lg-8 mx-auto">
+                  <div class="testimonial-block text-center">
+                    <blockquote class="mb-5">
+                      <p>&ldquo;Exceptional craftsmanship and elegant designs! I’ve purchased multiple items from RareGloves, and every experience has been seamless. Definitely my go-to store for quality accessories.&rdquo;</p>
+                    </blockquote>
 
-											<div class="testimonial-block text-center">
-												<blockquote class="mb-5">
-													<p>&ldquo;Donec facilisis quam ut purus rutrum lobortis. Donec vitae odio quis nisl dapibus malesuada. Nullam ac aliquet velit. Aliquam vulputate velit imperdiet dolor tempor tristique. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer convallis volutpat dui quis scelerisque.&rdquo;</p>
-												</blockquote>
+                    <div class="author-info">
+                      <div class="author-pic">
+                        <img src="images/person-1.jpg" alt="Emily Roberts" class="img-fluid">
+                      </div>
+                      <h3 class="font-weight-bold">Emily Roberts</h3>
+                      <span class="position d-block mb-3">Creative Director, Luxe Studio</span>
+                    </div>
+                  </div>
 
-												<div class="author-info">
-													<div class="author-pic">
-														<img src="images/person-1.png" alt="Maria Jones" class="img-fluid">
-													</div>
-													<h3 class="font-weight-bold">Maria Jones</h3>
-													<span class="position d-block mb-3">CEO, Co-Founder, XYZ Inc.</span>
-												</div>
-											</div>
+                </div>
+              </div>
+            </div> 
+            <!-- END item -->
 
-										</div>
-									</div>
-								</div> 
-								<!-- END item -->
+          </div>
 
-							</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- End Testimonial Slider -->
 
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- End Testimonial Slider -->	 
 
+	
 @endsection
