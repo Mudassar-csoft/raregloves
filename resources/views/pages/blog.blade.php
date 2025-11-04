@@ -50,7 +50,7 @@
 
       <div class="col-12 col-sm-6 col-md-4 mb-5">
         <div class="post-entry">
-          <a href="#" class="post-thumbnail"><img src="images/blog-1.png" alt="Image" class="img-fluid"></a>
+          <a href="#" class="post-thumbnail"><img src="images/blog-1.jpg" alt="Image" class="img-fluid"></a>
           <div class="post-content-entry">
             <h3><a href="#">Top 5 Gloves for Winter 2025</a></h3>
             <div class="meta">
@@ -62,7 +62,7 @@
 
       <div class="col-12 col-sm-6 col-md-4 mb-5">
         <div class="post-entry">
-          <a href="#" class="post-thumbnail"><img src="images/blog-2.jpg" alt="Image" class="img-fluid"></a>
+          <a href="#" class="post-thumbnail"><img src="images/blog-2.avif" alt="Image" class="img-fluid"></a>
           <div class="post-content-entry">
             <h3><a href="#">How to Choose the Right Sports Gloves</a></h3>
             <div class="meta">

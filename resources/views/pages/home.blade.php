@@ -379,7 +379,7 @@
 
       <div class="col-12 col-sm-6 col-md-4 mb-4 mb-md-0">
         <div class="post-entry">
-          <a href="#" class="post-thumbnail"><img src="images/blog-1.png" alt="Rare Gloves Blog" class="img-fluid"></a>
+          <a href="#" class="post-thumbnail"><img src="images/blog-1.jpg" alt="Rare Gloves Blog" class="img-fluid"></a>
           <div class="post-content-entry">
             <h3><a href="#">How to Choose the Perfect Gloves for Your Work</a></h3>
             <div class="meta">
@@ -391,7 +391,7 @@
 
       <div class="col-12 col-sm-6 col-md-4 mb-4 mb-md-0">
         <div class="post-entry">
-          <a href="#" class="post-thumbnail"><img src="images/blog-2.jpg" alt="Rare Gloves Blog" class="img-fluid"></a>
+          <a href="#" class="post-thumbnail"><img src="images/blog-2.avif" alt="Rare Gloves Blog" class="img-fluid"></a>
           <div class="post-content-entry">
             <h3><a href="#">Top 5 Leather Gloves for Riders</a></h3>
             <div class="meta">
